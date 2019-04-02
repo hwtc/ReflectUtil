@@ -1,6 +1,6 @@
 /*
  * Copyright (C) 2013 <MorrowindXie@gmail.com>.
- * https://github.com/morrowind/
+ * This module is cloned from https://github.com/morrowind/ReflectUtil
  * 
  * Licensed under the Apache License, Version 2.0 (the "License");
  * You may not use this file except in compliance with the License.
